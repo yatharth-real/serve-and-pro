@@ -1,0 +1,14 @@
+{
+  "name": "serve-dev-cli-root",
+  "version": "2.1.0",
+  "private": false,
+  "description": "Serve & Pro CLI monorepo and source repository",
+  "scripts": {
+    "build": "powershell -ExecutionPolicy Bypass -File ./scripts/build-dist.ps1",
+    "pack": "npm pack ./dist-npm",
+    "publish:npm": "npm publish ./dist-npm --access public"
+  },
+  "dependencies": {
+    "serve-dev-cli-root": "^2.1.0"
+  }
+}
