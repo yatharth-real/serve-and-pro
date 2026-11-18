@@ -1,5 +1,8 @@
 # Serve & Pro
 
+<img width="736" height="372" alt="image" src="https://github.com/user-attachments/assets/5e85cd45-cfce-4114-ae12-bc2865260194" />
+
+
 **Serve** is a fast, lightweight, universal local development and web serving orchestrator built from scratch in Go.
 
 It consists of two unified command groups (available via four permanent global commands):
