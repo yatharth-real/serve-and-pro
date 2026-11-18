@@ -1,6 +1,7 @@
 # Serve & Pro
 
 <img width="736" height="372" alt="image" src="https://github.com/user-attachments/assets/5e85cd45-cfce-4114-ae12-bc2865260194" />
+<img width="764" height="249" alt="image" src="https://github.com/user-attachments/assets/029195ec-5f3f-4852-aac6-37060445f3f2" />
 
 
 **Serve** is a fast, lightweight, universal local development and web serving orchestrator built from scratch in Go.
